@@ -32,6 +32,5 @@ img-fluid :	Membuat gambar menjadi responsif.
 Agar gambar pada website responsif dan menyesuaikan ukuran layar perangkat,
 kita dapat menggunakan class img-fluid dari Bootstrap. Class ini membuat gambar memiliki lebar maksimal 100%
 dari elemen induknya dan tinggi otomatis mengikuti proporsi gambar.
-CONTOH KODE :
-<img src="gambar.jpg" class="img-fluid" alt="Gambar">
+CONTOH KODE : (<img src="gambar.jpg" class="img-fluid" alt="Gambar">)
 Dengan menggunakan class img-fluid, gambar tidak akan melebihi lebar wadahnya sehingga tampilannya lebih sesuai pada layar komputer, tablet, maupun HP.
